@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TranscriptFetch/transcript-api-node/main/assets/logo.png" alt="TranscriptFetch" width="84" height="84" />
+</p>
+
 # TranscriptFetch Node.js SDK
 
 The official Node.js / TypeScript client for the [TranscriptFetch API](https://transcriptfetch.com). Fetch transcripts as clean, typed data, with built-in retries, idempotency, and a typed error hierarchy.
